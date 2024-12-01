@@ -24,7 +24,7 @@ public class DesignTacoController {
 
     private final IngredientRepository ingredientRepo;
 
-    private TacoRepository tacoRepo;
+    private final TacoRepository tacoRepo;
 
     private UserRepository userRepo;
 
